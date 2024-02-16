@@ -1,1 +1,2 @@
 1. membuat halaman home
+2. membuat halaman about
