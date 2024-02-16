@@ -1,3 +1,7 @@
 1. Mukhlis Adhe Purwanto (16102204)
+<<<<<<< HEAD
   - membuat halaman login
   - membuat halaman home
+=======
+2. Jouska Brillian Putra (17293802)
+>>>>>>> cdfcc60 (Add new pages to the project)
