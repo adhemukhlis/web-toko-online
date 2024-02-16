@@ -1,3 +1,7 @@
 1. Mukhlis Adhe Purwanto (16102204)
   - membuat halaman login
   - membuat halaman home
+
+
+2. Jouska Brillian
+  -menambah sesuatu
